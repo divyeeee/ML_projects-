@@ -1,0 +1,12 @@
+IPO Analyzer
+
+- IPO or initial public offering refers to listing of institution's shares in public market for trading, this simply means that now anyone can own a share of the company and trade his/her share with others at some price.
+- Now the process of listing is very interesting, first the company announces its listing in order to create the hype, second it affiliates itself with some financial institutions that helps in its listing, after this there is a bidding for the shares, but it's more of a lottery than bidding since the allotment happens on lottery basis (I think). Now, I believe there are two methods through which we can make money from these IPOs, that is if we get the allotment , then trade our lot which usually lists at higher price than the bidding amount (this needs to be highlighted since some IPOs can result in loss after listing). The second method is applicable when the we do not want in through the lottery system but through a pre-listing bidding that happens before the shares are listed, its more of a guessing game, wherein we offer to buy those shares from allotted holders at the market price. The profit happens when we sell these shares to interested parties who create a demand after listing, but are late to the morning bidding and to those retail investors that for the fear of missing out, buy these shares. 
+- Mainly we want to predict if the concerned IPO will result in profit or loss if we go through the second route since that route may not work always
+- This depends on various factors including and mainly market sentiments, we can analyze various financial reports and come to this conclusion.
+- We can also look at subscription data and predict if the listing would be a loss or profit, the main factor here would be interest in QIBs (Qualified Institutional Buyers) and their backing.
+
+--There are mainly two tasks, first using NLP, read the market sentiments, for which our model will first scrap data regarding that IPO then filter relevant data and predict if the stock is worth buying or not.
+--Second, to see the subscription data and on basis of past examples try to predict if the stock would be really and confidently predictable or not.
+--Also we can analyze that IPOs which had 'substantial' backing of QIBs, how do they perform in the near future, maybe like 6 months or one year.
+--This can provide critical info for retail investors like me.
